@@ -19,5 +19,8 @@
   },
   "resolutions": {
     "upath": "^1.0.5"
+  },
+  "build": {
+    "productName": "Electron Quick Start"
   }
 }
